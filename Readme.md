@@ -8,12 +8,10 @@
 
 [API标准[后端]](Readme.md "待补充")
 
-
 API公共设计标准
 
 * Make each program do one thing well
 * Expect the output of every program to become the input to another
-
 
 ## 技术栈
 
@@ -64,6 +62,6 @@ API公共设计标准
 
 The Promise object represents the *eventual completion* (or failure) of an asynchronous operation and its resulting value.
 
-![](http://jyywiki.cn/pages/OS/img/promises.png)
+![1670839182901](image/Readme/1670839182901.png)
 
 Promise: 流程图的构造方法 (Mozilla-MDN Docs)
